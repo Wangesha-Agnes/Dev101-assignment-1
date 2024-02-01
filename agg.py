@@ -1,0 +1,1 @@
+print("prepared for technology advancement")
